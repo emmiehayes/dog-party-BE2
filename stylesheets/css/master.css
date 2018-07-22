@@ -23,6 +23,21 @@ header nav{
           float: right;
           }
 
-nav li {
-        display: inline-block;
+nav li{
+      display: inline-block;
+      }
+
+#hero_banner{
+            text-align: center;
+            }
+.parent{
+        position: relative;
         }
+
+.over-img{
+          position: absolute;
+          top: 25%;
+          left: 40%;
+          border: 2px solid turquoise;
+          border-radius: 50%;
+          }
