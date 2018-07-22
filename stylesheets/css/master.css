@@ -36,8 +36,19 @@ nav li{
 
 .over-img{
           position: absolute;
-          top: 25%;
+          top: 20%;
           left: 40%;
           border: 2px solid turquoise;
           border-radius: 50%;
           }
+
+.over-button{
+            position: absolute;
+            top: 75%;
+            left: 47%;
+            background: white;
+            border: 2px solid turquoise;
+            font-color: solid turquoise;
+            padding: 5px 10px;
+            text-decoration: none;
+            }
