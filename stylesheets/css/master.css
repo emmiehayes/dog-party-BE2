@@ -1,3 +1,28 @@
 body{
-  font-family: Raleway;
-}
+    font-family: Raleway;
+    }
+
+header{
+      background-color: paleturquoise;
+      height: 45px;
+      padding: 0 30px;
+      }
+
+header nav{
+          float: right;
+          }
+
+header img{
+          float: left;
+          height: 30px;
+          width: 30px;
+          margin-top: 8px;
+          }
+
+header nav{
+          float: right;
+          }
+
+nav li {
+        display: inline-block;
+        }
